@@ -1,0 +1,24 @@
+﻿Compilación iniciada a las 12/3/2020 7:34:26 p. m..
+     1>Proyecto "C:\Users\Jonathan T.-PC\Desktop\jonathan\cartelera de cine\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\ConsoleApplication1.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\ConsoleApplication1.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ConsoleApplication1.cpp
+         ConsoleApplication1.cpp
+     1>c:\users\jonathan t.-pc\desktop\jonathan\cartelera de cine\consoleapplication1\consoleapplication1\consoleapplication1.cpp(68): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\jonathan t.-pc\desktop\jonathan\cartelera de cine\consoleapplication1\consoleapplication1\consoleapplication1.cpp(113): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\jonathan t.-pc\desktop\jonathan\cartelera de cine\consoleapplication1\consoleapplication1\consoleapplication1.cpp(173): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\jonathan t.-pc\desktop\jonathan\cartelera de cine\consoleapplication1\consoleapplication1\consoleapplication1.cpp(246): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\jonathan t.-pc\desktop\jonathan\cartelera de cine\consoleapplication1\consoleapplication1\consoleapplication1.cpp(295): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\jonathan t.-pc\desktop\jonathan\cartelera de cine\consoleapplication1\consoleapplication1\consoleapplication1.cpp(347): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\jonathan t.-pc\desktop\jonathan\cartelera de cine\consoleapplication1\consoleapplication1\consoleapplication1.cpp(16): warning C4101: 'Irse' : variable local sin referencia
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jonathan T.-PC\Desktop\jonathan\cartelera de cine\ConsoleApplication1\Debug\ConsoleApplication1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Jonathan T.-PC\Desktop\jonathan\cartelera de cine\ConsoleApplication1\Debug\ConsoleApplication1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Jonathan T.-PC\Desktop\jonathan\cartelera de cine\ConsoleApplication1\Debug\ConsoleApplication1.lib" /MACHINE:X86 Debug\ConsoleApplication1.obj
+         Debug\stdafx.obj
+         LINK : no se encontró C:\Users\Jonathan T.-PC\Desktop\jonathan\cartelera de cine\ConsoleApplication1\Debug\ConsoleApplication1.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
+         ConsoleApplication1.vcxproj -> C:\Users\Jonathan T.-PC\Desktop\jonathan\cartelera de cine\ConsoleApplication1\Debug\ConsoleApplication1.exe
+     1>Compilación del proyecto terminada "C:\Users\Jonathan T.-PC\Desktop\jonathan\cartelera de cine\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:30.78
